@@ -21,13 +21,20 @@
 
 # Fortran module files
 *.mod
-
+*/Build
+*/Binaries
+*/DerivedDataCache
+*/Intermediate
+*/Saved
 # Compiled Static libraries
 *.lai
 *.la
 *.a
 *.lib
-
+*.VC.db
+*.suo
+*.VC.opendb
+*.sln
 # Executables
 *.exe
 *.out
