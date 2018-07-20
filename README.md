@@ -15,3 +15,18 @@ Battle Tank is a 3D tank simulator that pits the player versus another player or
 + Heavy focus on control systems
 + Also learning terrains, UI, terrain sculpting & more
 + Dive right in and enjoy yourself!
+### 2 S04 Game Design Document (GDD) ###
+
++ The Concept, Rules and (initial) requirements
++ We’ll iterate around a loop while making this game
++ Constantly asking “what’s least fun”
++ Remember we’re not AAA studios
++ Let’s find the essence of fun of this game.
+
+### 3 Setting Up a GitHub “Repo” ###
+
++ Creating an online repository for your project
++ GitHub provides public hosting for free
++ We will use their default UnrealEngine **.gitignore**
++ We’ll then “clone” this repository to our machine
++ How to use a **readme.md** with markdown*
